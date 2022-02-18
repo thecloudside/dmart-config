@@ -4,6 +4,10 @@ metadata:
   name: gateway-cluster-admin
 subjects:
 - kind: User
+  name: umesh@thecloudside.com
+- kind: User
+  name: anthos-cluster-connect@dmart-anthos-project.iam.gserviceaccount.com
+- kind: User
   name: 1075787455276@cloudbuild.gserviceaccount.com
 roleRef:
   kind: ClusterRole
