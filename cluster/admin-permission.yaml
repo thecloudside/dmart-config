@@ -9,6 +9,8 @@ subjects:
   name: anthos-cluster-connect@dmart-anthos-project.iam.gserviceaccount.com
 - kind: User
   name: 1075787455276@cloudbuild.gserviceaccount.com
+- kind: User
+  name: hari@hari.com
 roleRef:
   kind: ClusterRole
   name: cluster-admin
