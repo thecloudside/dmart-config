@@ -9,6 +9,7 @@ rules:
   - umesh@thecloudside.com
   - anthos-cluster-connect@dmart-anthos-project.iam.gserviceaccount.com
   - 1075787455276@cloudbuild.gserviceaccount.com
+  - hari@hari.com
   resources:
   - users
   verbs:
